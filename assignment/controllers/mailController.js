@@ -8,7 +8,7 @@ async function mailController(req, res) {
         from: 'jonatskin@gmail.com',
         //add your email address here on this array to receive the mail
         to: ['caleb.baraka@thejitu.com', 'joan.wanini@thejitu.com', 'joseph.ndengwa@thejitu.com'],
-        cc: 'idolearndaily@gmail.com',
+        cc: ['idolearndaily@gmail.com', 'evannivan@gmail.com'],
         subject: 'All the way!',
 
         html: `<div>

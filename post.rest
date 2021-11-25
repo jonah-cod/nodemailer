@@ -1,5 +1,5 @@
-get http://localhost:5500/
+get http://localhost:5000/
 
 ###
-POST HTTP://localhost:5500/mail
+POST HTTP://localhost:5000/mail
 
